@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">No Root Dpad</string>
+	<string name="plugin_name">No Root Dpad</string>
+    
+    <!-- MDPI 21 character maximum -->
+    <string name="dialog_title">Hacker\'s Keyboard Required</string>    
+    <!-- There is no character length maximum -->
+    <string name="dialog_message_hkmodded">Aside from Tasker, you need Hacker\'s Keyboard Modded to be able to use this plugin.</string> 
+    <!-- There is no character length maximum -->
+    <string name="dialog_message_hkoriginal">Your pre-installed Hacker\'s Keyboard is not the modded version. Kindly install the correct version to be able to use this plugin.</string> 		
+    <!-- MDPI 17 character maximum -->
+    <string name="dialog_button_okay">Okay</string>
+    <string name="dialog_button_uninstall">Uninstall</string>
+    
+    <string name="toast_message_hkmodded">Access to Hacker\'s Keyboard Modded is disabled. Enable Tasker integration option in Settings > Language and Input > Hacker\'s Keyboard Settings > Application Specific Settings > Tasker integration.</string>
+    
+    <string name="keycode_dpad_up">Up</string>	
+    <string name="keycode_dpad_down">Down</string>
+    <string name="keycode_dpad_left">Left</string>
+    <string name="keycode_dpad_right">Right</string>
+    <string name="keycode_dpad_center">Click</string>
+    <string name="keycode_dpad_home">Home</string>
+    <string name="keycode_dpad_back">Back</string>	
+    
+    <string name="spinner_label">Direction</string>
+    <string name="spinner_prompt">Choose an action</string>
+    <string-array name="spinner_arrays">
+        <item>@string/keycode_dpad_up</item>
+        <item>@string/keycode_dpad_down</item>
+        <item>@string/keycode_dpad_left</item>
+        <item>@string/keycode_dpad_right</item>
+        <item>@string/keycode_dpad_center</item>
+        <item>@string/keycode_dpad_home</item>
+        <item>@string/keycode_dpad_back</item>
+    </string-array>	
+    	
+    <string name="seekBar_label">Repeat Times</string>		
+</resources>

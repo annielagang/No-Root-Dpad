@@ -5,7 +5,7 @@ No Root Dpad - Tasker Plugin
 #### Requirements
 * Android 4.0+ device
 * *Tasker* [Google Play paid version](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) | [7 day free trial](http://tasker.dinglisch.net/download.html) 
-* *Hacker's Keyboard* modded version v1.37 [apk download](https://github.com/annelagang/HK-Modded/releases/download/v1.37/HK.Modded.apk) | [source code] (https://github.com/annelagang/HK-Modded/releases/tag/v1.37)
+* *Hacker's Keyboard* modded version v1.37 [apk download](https://github.com/annelagang/HK-Modded/releases/download/v1.37.0/HK.Modded.apk) | [source code] (https://github.com/annelagang/HK-Modded/releases/tag/v1.37.0)
 
 #### Uses
 * Useful for creating macros like [automatically neabling GPS](www.youtube.com/watch?v=K8i78J1tKK4&t=6m42s) when GPS apps (Waze, Google Maps etc) is open
